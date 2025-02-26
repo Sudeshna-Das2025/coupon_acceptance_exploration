@@ -3,7 +3,7 @@
 
 ## Context
 
-This Jupyter Notebook application explores a dataset in UCI Machine Learning Repository that was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept different types of coupons if they are the driver. Coupons offered are for cheap restaurants (that cost $20/person), coffee houses, carry outs, bars, and expensive restaurants (that cost $20-$50/person). This application explores various factors that influence a driver's decision in accepting a coupon and seeks to understand differences between drivers who accepted different coupons vs. those who did not. 
+[This Jupyter Notebook application](coupon_acceptance_exploration.ipynb) explores a dataset in UCI Machine Learning Repository that was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept different types of coupons if they are the driver. Coupons offered are for cheap restaurants (that cost $20/person), coffee houses, carry outs, bars, and expensive restaurants (that cost $20-$50/person). This application explores various factors that influence a driver's decision in accepting a coupon and seeks to understand differences between drivers who accepted different coupons vs. those who did not. 
 
 
 ## Data
