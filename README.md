@@ -20,8 +20,8 @@ The attributes of this data set include:
 
 * Gender: male, female
 
-* Age: below 21, 21 to 25, 26 to 30, etc.
-* Marital Status: single, married partner, unmarried partner, or widowed
+* **Age**: below 21, 21 to 25, 26 to 30, etc.* **Marital Status**: single, married partner, unmarried partner, or widowed
+
 * Number of children: 0, 1, or more than 1
 * Education: high school, bachelors degree, associates degree, or graduate degree
 * Occupation: architecture & engineering, business & financial, etc.
