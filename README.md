@@ -50,7 +50,7 @@ The attributes of this data set include:
 
 ## Key Findings from the exploration
 
-** Observation for Bar coupon acceptance**
+**Observation for Bar coupon acceptance**
 
 * Those drivers who visited bars more than 4 times a month have a much higher rate of bar coupon acceptance (approximately 77% vs. 37%) than those drivers who visited the bar 3 or less times a month
 
@@ -65,7 +65,7 @@ The attributes of this data set include:
 	* go to cheap restaurants more than 4 times a month and income is less than 50K.
 
 
-** Observation for Coffee House coupon acceptance**
+**Observation for Coffee House coupon acceptance**
 
 * Those drivers went to visit coffee houses 1 to 3 times a month have a higher rate of bar coupon acceptance (approximately 65.4% vs. 45.98%) than those drives who have never been to coffee houses.
 
